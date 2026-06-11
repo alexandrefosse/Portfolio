@@ -1,12 +1,12 @@
 const navbar = `
 <nav>
-    <span class="logo"><a href="/Portfolio/page/accueil.html">Alexandre Fossé</a></span>
+    <span class="logo"><a href="accueil.html">Alexandre Fossé</a></span>
     <ul>
-        <li><a href="/Portfolio/page/accueil.html">Accueil</a></li>
-        <li><a href="/Portfolio/page/projets.html">Projets</a></li>
-        <li><a href="/Portfolio/page/competences.html">Compétences</a></li>
-        <li><a href="/Portfolio/page/a_propos.html">À propos</a></li>
-        <li><a href="/Portfolio/page/contact.html">Contact</a></li>
+        <li><a href="accueil.html">Accueil</a></li>
+        <li><a href="projets.html">Projets</a></li>
+        <li><a href="competences.html">Compétences</a></li>
+        <li><a href="a_propos.html">À propos</a></li>
+        <li><a href="contact.html">Contact</a></li>
     </ul>
 </nav>
 `;
